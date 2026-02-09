@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+
+# local secrets / env (defense in depth)
+webhook.env
+*.env
